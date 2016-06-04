@@ -1201,7 +1201,7 @@ var Reveal = (function(){
 			clearTimeout( activateOverviewTimeout );
 			clearTimeout( deactivateOverviewTimeout );
 
-			// Not the pretties solution, but need to let the overview
+			// Not the pretties cash_register, but need to let the overview
 			// class apply first so that slides are measured accurately
 			// before we can position them
 			activateOverviewTimeout = setTimeout( function() {
