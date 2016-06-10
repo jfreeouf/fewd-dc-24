@@ -1,4 +1,4 @@
-#FEWD Week #5: Troubleshooting Exercise
+#FEWD Week #6: Troubleshooting Exercise
 
 
 ---
