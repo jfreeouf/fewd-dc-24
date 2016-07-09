@@ -98,7 +98,7 @@ Let's actually implement a jquery plugin together.
 
 The plugin we'll be using is [FixedContent.js](https://github.com/jeremychurch/FixedContent.js)
 
-### Fixed Content Source (5/40)
+### Fixed Content Source 
 
 The first thing I want to do is take a look at this source code so we can get a better understanding of plugins. The source code can be found [here](https://github.com/jeremychurch/FixedContent.js/blob/master/jquery.fixedcontent.js)
 
