@@ -47,7 +47,6 @@ Review the below plugins:
 - [packery.metafizzy.co](http://packery.metafizzy.co)
 - [tablesorter](http://tablesorter.com/docs/#Introduction)
 
-Think and partner up to answer:
 - look for commonality
 - look for patterns
 - look for convention
