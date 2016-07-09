@@ -6,7 +6,7 @@
 - Describe where to find existing jQuery Plugins (and how to install them)
 - Research and utilize a published jQuery Plugin
 - Demonstrate the basic structure of a jQuery Plugin
-- Write your own jQuery Plugin
+
 
 
 ## Framing
