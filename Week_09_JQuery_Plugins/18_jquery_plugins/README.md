@@ -361,7 +361,7 @@ In `greenify.js`:
 
 > make sure to get rid of any duplicate code in your `script.js` and require `greenify.js` in your `index.html`
 
-## You do - Contribute to greenify )
+## You do - Contribute to greenify
 
 - Contribute to [greenify](https://github.com/ga-dc/greenify) with a sick new feature to the greenify plugin
 
